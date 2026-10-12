@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+generated-images/
+# test inputs and outputs, and anything holding a key
+*.png
+*.jpg
+*.jpeg
+*.webp
+.env
+api_key
