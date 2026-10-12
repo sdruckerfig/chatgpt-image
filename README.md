@@ -102,3 +102,7 @@ lists every option of `generate`, `edit` or `models`.
 - `SKILL.md`: what Claude follows. It covers the cost rules, prompt writing, sizes and aspect
   ratios, editing with reference images and masks, and content limits.
 - `scripts/imagegen.py`: the CLI.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
